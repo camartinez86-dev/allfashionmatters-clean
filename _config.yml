@@ -1,0 +1,1 @@
+title: All Fashion Matters\nemail: camartinez86@gmail.com\ndescription: \"Your ultimate source for modern fashion trends, sustainable innovations, and style edits.\"\nbaseurl: \"\"\nurl: \"https://allfashionmatters.com\"\npermalink: 'pretty'\n\n# Build settings\nmarkdown: kramdown\ntheme: minima\nplugins:\n  - jekyll-feed\n  - jekyll-seo-tag\n\nfuture: true
